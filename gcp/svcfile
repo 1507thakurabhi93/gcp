@@ -1,12 +1,12 @@
 {
   "type": "service_account",
-  "project_id": "dryicepoc-242713",
-  "private_key_id": "fdd15c037c7f7df45b2b361f6db27c9b28a34fa0",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCzxte8ktXKbkEi\np5lDGxcAiI7oNtZoLtXVxJKdGPHR/1FvCC/kHDo9M81xo+CDUtAoUHgsfVkxJ0Nh\nFKqoxUogxrrlaXD5ztV3X6ZzuKiB1oeGYpO7zetjMf2duorlAPQUOQRoxSyBPH+n\nGrygUIYUBdJz0Q9Grppa1GbbkI56PF1BYn41qi29vzaS8gJoXDugN26pC15czhY0\n+vEu1b9iQiKfznkd3hhKIep7no23+syHvgI4Ij273yNU9bCRZFADs13934z0P1RB\nqYeOL3gQuPEL2Taz468ObLXZsPzDI/aNWwHremysQDuzxl6BQuBYfTYyaH0IhQf4\najxpvdRDAgMBAAECggEAEms0bj8TBVbveHf4ZV4wqJ7VGWiI5gqqYOjvZoYIPI4u\njzQlB/d2Zg/ZJCP4nCvPZNn9vf0ntrgBmMAvzfPMqPgDbP61EvsEduMHYELSjN7o\narXN0geCbtrP06mpklXbK/k9gOh2q1UB9SJxofEuE34XNkN8j67S5KxvT16Lom1B\nyW7gcFe4sK8adwlYAh8R3b/RtFpa2cV7zJdQobyoiFIvQ8w8mMVm4WHTAoZboFAF\ngeD3fAKBo9i8k+wrtyX6JYlEKeXOh9AufEwh3iMf7Ujr1ocKdx/yNRHbosh9niqd\nS92ZFL9/yECztsax8wBCiVVCEO97RXg4g/t5fg8fXQKBgQDk6FrumBvmSl/wPplE\n2h8cMzq2nbhVksNzm/NsUoxx7a0FypDellm1009dgnHthPwb9r/95oKoZKW+Oncl\nUO8PcPtHFy8M09Q1rs3HArYFSnGRWmdM7P0qJbW2uprZAnsROI/ut8uPWWVNOdGj\nxuiDZlyVOitNzYd8gViihpJrpQKBgQDJDeBGzf1DkLzGLmFHcPRlpHkglJPIygdf\nZaZOn6d70WSczheE8xJmXH0Eo5EBxv8AaC3LZZ78l70kzBPrCEV384aEeGQKaBts\nfGDdQ0hDRb3FUjWxV+/UE/d/qMtbwRvAzo3YkbzpuWWZQ75fHya9CjswDQQe0aDX\nRZS87J7bxwKBgBJQ9VW6HiFjOiIDIEh+G5cqEjyiiiluwOzzQZsdT9ed6QZZmxX0\neeEus18MHQmgZnvmVp5+X14SD6EVFIuL2lUl+TVLCZzBJm3VOun9sYri1guHbFSf\ncfJ5afzhGZrbs/VAzWOQmV0zDgQL6FZuiBRbkHTwXp6vH3Q69Vir4/NxAoGAHnUD\nrLY3z6x1bHBKPFBYNa2cy9q2KIyyYTk84Fw/OvqVi0uNNI6+EtOf/Lvqk6JZru4Z\nQd67Hvi9pn1j5w7xtyIlFpxGS21J+j09T0eKAublwKabi6oOosoDjEs9w0CVu7eO\ntWgefimfwoAIrtBBRhHutXDDVwfancHkrloKFrECgYEAyXZmd5b0uURhD0jNOU2d\nfl5odSESiATPkqgpwXwr5jpTEksu84suaosgCokk66UpXWCbbeSRxrV4XxrxTiqM\nW28v0jKnXZc6f+BV0cvk9CnwtjZ+GUFxCKQkOL+/XZDue4h4GY/35U70FrmYkh6K\nBXZZ/AxkDFh+K4mA2AtNkbk=\n-----END PRIVATE KEY-----\n",
-  "client_email": "dryice-abhijeet@dryicepoc-242713.iam.gserviceaccount.com",
-  "client_id": "118011927431573229517",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
+  "project_id": "#####################",
+  "private_key_id": "",
+  "private_key": "",
+  "client_email": "",
+  "client_id": "",
+  "auth_uri": "",
+  "token_uri": "",
   "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dryice-abhijeet%40dryicepoc-242713.iam.gserviceaccount.com"
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/################.iam.gserviceaccount.com"
 }
